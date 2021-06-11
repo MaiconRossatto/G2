@@ -26,8 +26,12 @@ Tabela de conteúdos
 * Meteorológicos atrvés de uma API
 
 <h4 align="center">
-
-:construction: Script em construção... :construction:
+  
+  #### Integrantes do grupo:
+  - Maicon Mazzonetto Rossatto
+  - Lucas Davila Seleprim
+  
+  :construction: Script em construção... :construction:
 
 </h4>
 
