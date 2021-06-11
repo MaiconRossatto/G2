@@ -5,3 +5,29 @@
 2021/1 " src="Gerenciamento de Ti.jpg" width="650px">
 </h1>
 
+Tabela de conteúdos
+=================
+<!--ts-->
+* Umidade do solo;
+* Tamanho das plantas (em cm);
+* Temperatura;
+* Umidade do ar;
+* Vento;
+* Dias da semana;
+* Temperatura máxima;
+* Temperatura mínima;
+* Precipitação;
+<!--te-->
+
+### :ear_of_rice::hammer: Tecnologias
+
+* Aplicações loT
+* Estação meteológica
+* Meteorológicos atrvés de uma API
+
+<h4 align="center">
+
+:construction: Script em construção... :construction:
+
+</h4>
+
