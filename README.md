@@ -37,9 +37,10 @@ terminal no Linux.
 Depois de baixar o arquivo principal, é preciso:
 
 * Acesse o diretório que você salvou o script.
+
 $ ./ script.sh
   
-<h4 align="center">
+
   
   #### Integrantes do grupo:
   - Maicon Mazzonetto Rossatto
