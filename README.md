@@ -35,11 +35,9 @@ Tabela de conteúdos
 Para execução deste script você deverá instalar no git bash no Windows ou utilizar o
 terminal no Linux.
 Depois de baixar o arquivo principal, é preciso:
-```bash
-# Acesse o diretório que você salvou o script.
-$ ./ script.sh
 
-<h4 align="center">
+* Acesse o diretório que você salvou o script.
+$ ./ script.sh
   
   #### Integrantes do grupo:
   - Maicon Mazzonetto Rossatto
