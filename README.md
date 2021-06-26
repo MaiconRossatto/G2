@@ -58,11 +58,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
   cel: (55)997037555
   
   #### Lucas Davila Seleprim
-  email:
+  email: lturco@hotmail.com
 
-  cel:
+  cel: (55)996517315
   
-  :construction: Script em construção... :construction:
+  :construction: Script Concluído :construction:
 
 </h4>
 
