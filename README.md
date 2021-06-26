@@ -8,7 +8,10 @@
 # Monitoramento do Soja
 
 ## Descrição do Projeto
-
+O projeto foi baseado em uma aplicação IoT com diversos sensores para coleta de dados que foi
+implementada em uma lavoura de soja, onde usamos para fazer o Git Bash que por meio dos códigos
+foi se formando a tabela com todas as informações de uma determinada lavoura de soja tem durante seu processo
+de crescimento.
 
 
 Tabela de conteúdos
