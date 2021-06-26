@@ -54,10 +54,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
   
   ##### Maicon Mazzonetto Rossatto
   email: maiconmrossatto@gmail.com
+  
   cel: (55)997037555
   
   #### Lucas Davila Seleprim
   email:
+
   cel:
   
   :construction: Script em construção... :construction:
