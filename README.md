@@ -46,7 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Wget for git bash](https://eternallybored.org/misc/wget/)
 
   
-  #### Integrantes do grupo:
+#### Integrantes do grupo:
   - Maicon Mazzonetto Rossatto
   - Lucas Davila Seleprim
   
