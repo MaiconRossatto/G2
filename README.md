@@ -26,6 +26,7 @@ Tabela de conteúdos
 * Temperatura máxima;
 * Temperatura mínima;
 * Precipitação;
+* Irrigação
 <!--te-->
 
 ### :ear_of_rice::hammer: Tecnologias
