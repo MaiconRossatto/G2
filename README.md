@@ -33,7 +33,7 @@ Tabela de conteúdos
 
 * Aplicações loT
 * Estação meteológica
-* Meteorológicos atrvés de uma API
+* Meteorológicos através de uma API
 
 ### Pré-requisitos
 Para execução deste script você deverá instalar no git bash no Windows ou utilizar o
