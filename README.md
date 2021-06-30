@@ -9,9 +9,9 @@
 
 ## Descrição do Projeto
 O projeto foi baseado em uma aplicação IoT com diversos sensores para coleta de dados que foi
-implementada em uma lavoura de soja, onde usamos para fazer o Git Bash que por meio dos códigos
-foi se formando a tabela com todas as informações de uma determinada lavoura de soja tem durante seu processo
-de crescimento.
+implementada em uma lavoura de soja, onde usamos no desenvolvimento para fazer o Git Bash que por meio dos códigos
+foi se formando a tabela com todas as informações de uma determinada lavoura de soja durante seu processo
+de crescimento envolvendo assim varios dados como temperatura, umidade e assim por diante.
 
 
 Tabela de conteúdos
@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   cel: (55)996517315
   
-  :construction: Script Concluído :construction:
+  Script Concluído :ballot_box_with_check:
 
 </h4>
 
