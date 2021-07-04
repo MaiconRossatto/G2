@@ -53,7 +53,59 @@ Sex=`echo $tempo | cut -c 49-51`
 Sab=`echo $tempo | cut -c 61-63`
 Dom=`echo $tempo | cut -c 73-75`
 
+if [ $Preseg -gt 5 ];
+then
+        Irriseg="Nao"
+else
+        Irriseg="Sim"
+fi
 
+
+if [ $Preter -gt 5 ];
+then
+       Irriter="Nao"
+else
+       Irriter="Sim"
+fi
+
+
+if [ $Prequa -gt 5 ];
+then
+       Irriqua="Nao"
+else
+       Irriqua="Sim"
+fi
+
+
+if [ $Prequi -gt 5 ];
+then
+       Irriqui="Nao"
+else
+       Irriqui="Sim"
+fi
+
+
+if [ $Presex -gt 5 ];
+then
+       Irrisex="Nao"
+else
+       Irrisex="Sim"
+fi
+
+
+if [ $Presab -gt 5 ];
+then
+       Irrisab="Nao"
+else
+       Irrisab="Sim"
+fi
+
+if [ $Predom -gt 5 ];
+then
+       Irridom="Nao"
+else
+       Irridom="Sim"
+fi
 
 echo "Semana ; Soja ; Umi.Solo ; T.Planta ; Temp ; Umi.Ar ; Vento ; T.Max ; T.Min ; Precipitacao ; Irrigar?" > Soja-$horaAtual.csv
 echo "$Seg ; S1 ; $Umidade1 ; $Tamanho1 ; $Temperatura ; $Ar ; $Vento ; $Maxseg ; $Minseg ; $Preseg ; $Irriseg" >> Soja-$horaAtual.csv
